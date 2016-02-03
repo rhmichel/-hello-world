@@ -1,2 +1,4 @@
 # -hello-world
-this is my second training sample
+This is my second training sample.
+I am pretty good at remembering new stuff.
+
